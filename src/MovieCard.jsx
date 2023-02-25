@@ -8,9 +8,6 @@ const MovieCard = ({ movie, index }) => {
             <div>
                 <p>{Year}</p>
                 <p>{imdbID}</p>
-                <p>{movie.key}</p>
-                <p>{movie.index}</p>
-
             </div>
 
             <div>
